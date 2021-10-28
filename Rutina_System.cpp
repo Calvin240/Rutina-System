@@ -583,6 +583,7 @@ void imprimir_rutina(int _indice)
     
     cout << "DESCANSO\n\n";
     }
+   system("PAUSE");
 }
 
 int main()
